@@ -59,7 +59,7 @@ Presentations
 
 ### [CSCI 325 Presentation](https://youtu.be/BQgD8D1A0OQ)
 
-- **Class:** 
+- **Class: CSCI 325** 
 - **Grade:**
 
 ---
