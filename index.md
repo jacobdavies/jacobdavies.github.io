@@ -36,9 +36,9 @@ Ethics Papers
 -   **Class: CSCI 325**  
 -   **Grade:**
 
-### [Paper 2 Title](/pdf/sample_presentation.pdf)
+### [Algorithms Ethics Paper](/ethics papers/ethics paper CSCI 415.docx)
 
--   **Class:** 
+-   **Class: CSCI 415** 
 -   **Grade:**
 
 ### [Paper 3 Title](/pdf/sample_presentation.pdf)
