@@ -41,10 +41,10 @@ Ethics Papers
 -   **Class: CSCI 415** 
 -   **Grade:**
 
-### [Paper 3 Title](/pdf/sample_presentation.pdf)
+### [Data Structures Ethics Paper](/ethics papers/Ethics Paper CSCI 315.docx)
 
--   **Class:** 
--   **Grade:**
+-   **Class CSCI 315:** 
+-   **Grade: 100**
 
 ---
 
