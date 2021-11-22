@@ -31,9 +31,9 @@ Programming Projects
 Ethics Papers
 -------------
 
-### [Paper 1 Title](/pdf/sample_presentation.pdf)
+### [Object Oriented Programming Ethics Paper](/ethics papers/Ethics Paper CSCI 325.docx)
 
--   **Class:**  
+-   **Class: CSCI 325**  
 -   **Grade:**
 
 ### [Paper 2 Title](/pdf/sample_presentation.pdf)
