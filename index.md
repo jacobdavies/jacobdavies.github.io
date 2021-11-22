@@ -51,9 +51,9 @@ Ethics Papers
 Presentations
 -------------
 
-### [Presentation 1 Title](/pdf/sample_presentation.pdf)
+### [64 bit AND component presentation](/presentations/64-bit AND.pptx)
 
-- **Class:** 
+- **Class: CSCI 330** 
 - **Grade:**
 
 
