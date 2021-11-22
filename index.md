@@ -57,7 +57,7 @@ Presentations
 - **Grade:**
 
 
-### [Presentation 2 Title](/pdf/sample_presentation.pdf)
+### [CSCI 325 Presentation](https://youtu.be/BQgD8D1A0OQ)
 
 - **Class:** 
 - **Grade:**
